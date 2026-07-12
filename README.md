@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 142 | 24 |
+| 143 | 24 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (31)
 - [combinatorics](#combinatorics) (5)
-- [constructive algorithms](#constructive-algorithms) (22)
+- [constructive algorithms](#constructive-algorithms) (23)
 - [data structures](#data-structures) (10)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (12)
@@ -131,6 +131,7 @@
 | 2208A | [Bingo Candies](https://codeforces.com/contest/2208/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2208/A%20-%20Bingo%20Candies/solution.cpp) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.cpp) |
 | 2231B | [Another Sorting Problem](https://codeforces.com/contest/2231/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2231/B%20-%20Another%20Sorting%20Problem/solution.cpp) |
+| 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 
 ### data structures
 
