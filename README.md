@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 144 | 24 |
+| 145 | 24 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [geometry](#geometry) (2)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (64)
-- [implementation](#implementation) (36)
+- [implementation](#implementation) (37)
 - [math](#math) (77)
 - [number theory](#number-theory) (20)
 - [schedules](#schedules) (2)
@@ -294,6 +294,7 @@
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 573A | [Bear and Poker](https://codeforces.com/contest/573/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/573/A%20-%20Bear%20and%20Poker/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1510K | [King's Task](https://codeforces.com/contest/1510/problem/K) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1510/K%20-%20King's%20Task/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
