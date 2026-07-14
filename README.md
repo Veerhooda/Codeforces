@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 146 | 25 |
+| 147 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (6)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (31)
@@ -45,6 +45,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
 ### binary search
 
