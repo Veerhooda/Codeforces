@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 150 | 25 |
+| 151 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (6)
+- [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (31)
+- [brute force](#brute-force) (32)
 - [combinatorics](#combinatorics) (5)
-- [constructive algorithms](#constructive-algorithms) (24)
-- [data structures](#data-structures) (10)
+- [constructive algorithms](#constructive-algorithms) (25)
+- [data structures](#data-structures) (11)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (12)
 - [dsu](#dsu) (1)
@@ -27,8 +27,8 @@
 - [games](#games) (7)
 - [geometry](#geometry) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (64)
-- [implementation](#implementation) (37)
+- [greedy](#greedy) (65)
+- [implementation](#implementation) (38)
 - [math](#math) (77)
 - [number theory](#number-theory) (20)
 - [schedules](#schedules) (2)
@@ -36,7 +36,7 @@
 - [sortings](#sortings) (27)
 - [strings](#strings) (15)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (7)
+- [two pointers](#two-pointers) (8)
 
 ---
 
@@ -60,6 +60,7 @@
 | 2192C | [All-in-one Gun](https://codeforces.com/contest/2192/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2192/C%20-%20All-in-one%20Gun/solution.cpp) |
 | 2193D | [Monster Game](https://codeforces.com/contest/2193/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2193/D%20-%20Monster%20Game/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 
 ### bitmasks
 
@@ -103,6 +104,7 @@
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
 | 2205A | [Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2205/A%20-%20Simons%20and%20Making%20It%20Beautiful/solution.cpp) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2208/B%20-%20Cyclists/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
 
@@ -140,6 +142,7 @@
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.cpp) |
 | 2205A | [Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2205/A%20-%20Simons%20and%20Making%20It%20Beautiful/solution.cpp) |
 | 2208A | [Bingo Candies](https://codeforces.com/contest/2208/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2208/A%20-%20Bingo%20Candies/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.cpp) |
 | 2231B | [Another Sorting Problem](https://codeforces.com/contest/2231/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2231/B%20-%20Another%20Sorting%20Problem/solution.cpp) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
@@ -158,6 +161,7 @@
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.cpp) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
 ### dfs and similar
@@ -286,6 +290,7 @@
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2208/B%20-%20Cyclists/solution.cpp) |
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.cpp) |
 | 2220A | [Blocked](https://codeforces.com/contest/2220/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2220/A%20-%20Blocked/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.cpp) |
@@ -336,6 +341,7 @@
 | 2205B | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2205/B%20-%20Simons%20and%20Cakes%20for%20Success/solution.cpp) |
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2208/B%20-%20Cyclists/solution.cpp) |
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
@@ -528,6 +534,7 @@
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.cpp) |
 | 2193D | [Monster Game](https://codeforces.com/contest/2193/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2193/D%20-%20Monster%20Game/solution.cpp) |
 | 2197B | [Array and Permutation](https://codeforces.com/contest/2197/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2197/B%20-%20Array%20and%20Permutation/solution.cpp) |
+| 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 
 ---
 
