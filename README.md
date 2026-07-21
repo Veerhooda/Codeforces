@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 152 | 25 |
+| 153 | 25 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (33)
+- [brute force](#brute-force) (34)
 - [combinatorics](#combinatorics) (5)
 - [constructive algorithms](#constructive-algorithms) (25)
 - [data structures](#data-structures) (11)
@@ -27,7 +27,7 @@
 - [games](#games) (7)
 - [geometry](#geometry) (2)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (65)
+- [greedy](#greedy) (66)
 - [implementation](#implementation) (38)
 - [math](#math) (78)
 - [number theory](#number-theory) (20)
@@ -76,6 +76,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1364/A%20-%20XXXXX/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1510K | [King's Task](https://codeforces.com/contest/1510/problem/K) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1510/K%20-%20King's%20Task/solution.cpp) |
@@ -237,6 +238,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.cpp) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
