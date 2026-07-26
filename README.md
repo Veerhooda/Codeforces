@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 162 | 25 |
+| 163 | 25 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (67)
 - [implementation](#implementation) (42)
-- [math](#math) (82)
+- [math](#math) (83)
 - [number theory](#number-theory) (21)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -370,6 +370,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 20B | [Equation](https://codeforces.com/contest/20/problem/B) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/20/B%20-%20Equation/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
