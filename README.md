@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 164 | 25 |
+| 165 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (6)
+- [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (14)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (36)
@@ -50,6 +50,7 @@
 | 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.cpp) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
+| 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2250/B%20-%20String%20Construction/solution.cpp) |
 
 ### binary search
 
