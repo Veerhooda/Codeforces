@@ -14,8 +14,6 @@ signed main()
         cin>>n>>s;
         vector<int>a(n);
         int sum=0;
-        int u=0;
-        int d=LLONG_MIN;
         for(int i=0;i<n;i++){
             cin>>a[i];
             sum+=a[i];
@@ -24,25 +22,17 @@ signed main()
             cout<<-1<<endl;
         }else{
             int lo=0;
-            int hi=0;
-            while(hi<=n-1){
-                if(a[hi]==1){
-                    u++;
-                }
- 
-                while(u>s){
-                    if(a[lo]==1){
-                        u--;
-                    }
+            int cur=0;
+            int ans=0;
+            for(int hi=0;hi<n;hi++){
+                cur+=a[hi];
+                while(cur>s){
+                    cur-=a[lo];
                     lo++;
                 }
- 
-                if(u==s){
-                    d=max(d,hi-lo+1);
-                }
-                hi++;
+                if(cur==s)ans=max(ans,hi-lo+1);
             }
-            cout<<n-d<<endl;
+            cout<<n-ans<<endl;
         }
         
     }
