@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 184 | 25 |
+| 185 | 25 |
 
 ---
 
@@ -19,14 +19,14 @@
 - [combinatorics](#combinatorics) (5)
 - [constructive algorithms](#constructive-algorithms) (26)
 - [data structures](#data-structures) (14)
-- [dfs and similar](#dfs-and-similar) (3)
+- [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (15)
-- [dsu](#dsu) (2)
+- [dsu](#dsu) (3)
 - [expression parsing](#expression-parsing) (1)
 - [fft](#fft) (1)
 - [games](#games) (7)
 - [geometry](#geometry) (2)
-- [graphs](#graphs) (3)
+- [graphs](#graphs) (4)
 - [greedy](#greedy) (71)
 - [implementation](#implementation) (48)
 - [math](#math) (87)
@@ -202,6 +202,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 103B | [Cthulhu](https://codeforces.com/contest/103/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/103/B%20-%20Cthulhu/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1829E | [The Lakes](https://codeforces.com/contest/1829/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1829/E%20-%20The%20Lakes/solution.cpp) |
@@ -230,6 +231,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 103B | [Cthulhu](https://codeforces.com/contest/103/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/103/B%20-%20Cthulhu/solution.cpp) |
 | 1829E | [The Lakes](https://codeforces.com/contest/1829/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1829/E%20-%20The%20Lakes/solution.cpp) |
 | 1927D | [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1927/D%20-%20Find%20the%20Different%20Ones!/solution.cpp) |
 
@@ -268,6 +270,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 103B | [Cthulhu](https://codeforces.com/contest/103/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/103/B%20-%20Cthulhu/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 1510K | [King's Task](https://codeforces.com/contest/1510/problem/K) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1510/K%20-%20King's%20Task/solution.cpp) |
 | 1829E | [The Lakes](https://codeforces.com/contest/1829/problem/E) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1829/E%20-%20The%20Lakes/solution.cpp) |
