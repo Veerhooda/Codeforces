@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 183 | 25 |
+| 184 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (9)
-- [binary search](#binary-search) (26)
+- [binary search](#binary-search) (27)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (38)
 - [combinatorics](#combinatorics) (5)
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (71)
 - [implementation](#implementation) (48)
-- [math](#math) (86)
+- [math](#math) (87)
 - [number theory](#number-theory) (22)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -68,6 +68,7 @@
 | 812C | [Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/812/C%20-%20Sagheer%20and%20Nubian%20Market/solution.cpp) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1006/C%20-%20Three%20Parts%20of%20the%20Array/solution.cpp) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
+| 1221C | [Perfect Team](https://codeforces.com/contest/1221/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1221/C%20-%20Perfect%20Team/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1354/B%20-%20Ternary%20String/solution.cpp) |
 | 1613C | [Poisoned Dagger](https://codeforces.com/contest/1613/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1613/C%20-%20Poisoned%20Dagger/solution.cpp) |
@@ -412,6 +413,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 573A | [Bear and Poker](https://codeforces.com/contest/573/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/573/A%20-%20Bear%20and%20Poker/solution.cpp) |
 | 1201C | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1201/C%20-%20Maximum%20Median/solution.cpp) |
+| 1221C | [Perfect Team](https://codeforces.com/contest/1221/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1221/C%20-%20Perfect%20Team/solution.cpp) |
 | 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.cpp) |
