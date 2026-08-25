@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 185 | 25 |
+| 186 | 25 |
 
 ---
 
@@ -29,11 +29,11 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (71)
 - [implementation](#implementation) (48)
-- [math](#math) (87)
+- [math](#math) (88)
 - [number theory](#number-theory) (22)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (34)
+- [sortings](#sortings) (35)
 - [strings](#strings) (16)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (15)
@@ -495,6 +495,7 @@
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### number theory
 
@@ -574,6 +575,7 @@
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
