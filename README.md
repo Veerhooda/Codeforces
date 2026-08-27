@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 187 | 26 |
+| 188 | 26 |
 
 ---
 
@@ -29,12 +29,12 @@
 - [geometry](#geometry) (2)
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (71)
-- [implementation](#implementation) (48)
+- [implementation](#implementation) (49)
 - [math](#math) (88)
 - [number theory](#number-theory) (22)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (36)
+- [sortings](#sortings) (37)
 - [strings](#strings) (16)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (15)
@@ -413,6 +413,7 @@
 | 2227D | [Palindromex](https://codeforces.com/contest/2227/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2227/D%20-%20Palindromex/solution.cpp) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### math
 
@@ -586,6 +587,7 @@
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
