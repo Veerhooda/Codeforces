@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 188 | 26 |
+| 189 | 26 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (71)
 - [implementation](#implementation) (49)
-- [math](#math) (88)
+- [math](#math) (89)
 - [number theory](#number-theory) (22)
 - [schedules](#schedules) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -507,6 +507,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Veerhooda/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### number theory
 
